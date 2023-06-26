@@ -11,3 +11,4 @@ docs/
 *.o
 *.obj
 *.lst
+*.lib
